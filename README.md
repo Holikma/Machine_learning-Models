@@ -1,1 +1,1 @@
-# AI_training
+# Machine Learning
